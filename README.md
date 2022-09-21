@@ -2,8 +2,16 @@
 
 # Hello Microverse
 
-> this is my first Microverse Project 
-
+>This project is making of "Hello world" repository in the github. No complex coding for this exercise. My goal here is to master all of the tools (css, html,...etc) and best practices I learned about in previous steps. 
+>You can see in this Project below tasks.
+>professinal documentation.
+>Creation of a new GitHub repo.
+>Creation of a new branch according to the GitHub flow rules.
+>Adding a .gitignore file.
+>Adding a .html file.
+>Adding a .css file.
+>Adding a test.md file.
+>and so on.
 
 ## Built With
 
